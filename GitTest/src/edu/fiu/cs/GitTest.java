@@ -10,6 +10,9 @@ public class GitTest {
 		System.out.println("This is a GitHub Test!!!");
 		System.out.println("First commit after pull to github");
 		System.out.println("Second commit after push to server!!!");
+		
+		//--------------------------------------------
+		System.out.println("This is a new commit!!!!");
 	}
 
 }
